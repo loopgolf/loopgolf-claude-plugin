@@ -1,0 +1,11 @@
+{
+  "name": "loopgolf",
+  "owner": { "name": "LoopGolf", "email": "caddyshack@loopgolf.co" },
+  "plugins": [
+    {
+      "name": "loopgolf",
+      "source": "./",
+      "description": "Live golf tee time availability across US courses. Search by location, date, players, and price."
+    }
+  ]
+}

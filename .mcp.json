@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "loopgolf": {
+      "type": "http",
+      "url": "https://www.loopgolf.co/api/ai/mcp"
+    }
+  }
+}

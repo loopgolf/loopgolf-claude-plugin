@@ -1,0 +1,10 @@
+{
+  "name": "loopgolf",
+  "description": "Live golf tee time availability across US courses. Search by location, date, players, and price.",
+  "version": "1.0.0",
+  "author": { "name": "LoopGolf", "email": "caddyshack@loopgolf.co", "url": "https://www.loopgolf.co" },
+  "homepage": "https://www.loopgolf.co/ai",
+  "repository": "https://github.com/matthew-holder/loopgolf-claude-plugin",
+  "license": "MIT",
+  "keywords": ["golf", "tee-times", "booking", "sports", "travel"]
+}
