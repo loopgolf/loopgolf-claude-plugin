@@ -7,7 +7,7 @@ official MCP Registry). Read-only, no API key.
 
 ## Install
 
-    /plugin marketplace add matthew-holder/loopgolf-claude-plugin
+    /plugin marketplace add loopgolf/loopgolf-claude-plugin
     /plugin install loopgolf@loopgolf
 
 ## Tools

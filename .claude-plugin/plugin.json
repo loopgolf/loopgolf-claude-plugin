@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": { "name": "LoopGolf", "email": "caddyshack@loopgolf.co", "url": "https://www.loopgolf.co" },
   "homepage": "https://www.loopgolf.co/ai",
-  "repository": "https://github.com/matthew-holder/loopgolf-claude-plugin",
+  "repository": "https://github.com/loopgolf/loopgolf-claude-plugin",
   "license": "MIT",
   "keywords": ["golf", "tee-times", "booking", "sports", "travel"]
 }
